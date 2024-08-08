@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "Mern Stack",
+        "title": "Learn about mern stack web development",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?uid=R156956872&ga=GA1.1.529652570.1721987554&semt=sph"
+    },
+    {
+        "id": 2,
+        "name": "Python",
+        "title": "Learn about Python",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/premium-vector/python-icon_1181510-14.jpg?uid=R156956872&ga=GA1.1.529652570.1721987554&semt=sph"
+    },
+    {
+        "id": 3,
+        "name": "AI",
+        "title": "Learn about Artificial Intelligence",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/ai-technology-microchip-background-vector-digital-transformation-concept_53876-112222.jpg?uid=R156956872&ga=GA1.1.529652570.1721987554&semt=sph"
+    },
+    {
+        "id": 4,
+        "name": "Dsa",
+        "title": "Learn about Data structures and algorithm",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/premium-photo/person-typing-laptop-with-word-data-screen_1228481-151.jpg?uid=R156956872&ga=GA1.1.529652570.1721987554&semt=sph"
+    },
+    {
+        "id": 5,
+        "name": "Java",
+        "title": "Learn about Java",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/software-engineering-background_1284-3394.jpg?uid=R156956872&ga=GA1.1.529652570.1721987554&semt=sph"
+    },
+    {
+        "id": 6,
+        "name": "C++",
+        "title": "Learn about C++",
+        "price": 665,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/software-engineering-background_1284-3394.jpg?uid=R156956872&ga=GA1.1.529652570.1721987554&semt=sph"
+    },
+    {
+        "id": 7,
+        "name": "Android Development",
+        "title": "Learn about Android development",
+        "price": 1225,
+        "category": "Paid",
+        "image": "https://img.freepik.com/premium-photo/cell-phone-with-green-robot-screen_917856-7174.jpg?uid=R156956872&ga=GA1.1.529652570.1721987554&semt=sph"
+    },
+    {
+        "id": 8,
+        "name": "Data Science",
+        "title": "Learn about Data Science",
+        "price": 995,
+        "category": "Paid",
+        "image": "https://img.freepik.com/premium-photo/woman-is-using-laptop-is-looking-graph-screen_783884-3872.jpg?uid=R156956872&ga=GA1.1.529652570.1721987554&semt=ais_user"
+    }
+]
