@@ -12,7 +12,7 @@ const Course = () => {
   useEffect(() => {
     const getBook = async () => {
       try {
-        const res = await axios.get("https://code-vidhya.vercel.app//book");
+        const res = await axios.get("https://code-vidhya.vercel.app/book");
         const data = list.filter((data) => data.category === "free");
         console.log(res.data);
         setBook(res.data);

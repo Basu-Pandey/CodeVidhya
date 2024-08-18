@@ -22,7 +22,7 @@ const Signup = () => {
       password: data.password,
     };
     await axios
-      .post("https://code-vidhya.vercel.app//user/signup", userInfo)
+      .post("https://code-vidhya.vercel.app/user/signup", userInfo)
       .then((res) => {
         console.log(res.data);
         if (res.data) {

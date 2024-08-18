@@ -18,7 +18,7 @@ const Login = (closeModal) => {
       password: data.password,
     };
     await axios
-      .post("https://code-vidhya.vercel.app//user/login", userInfo)
+      .post("https://code-vidhya.vercel.app/user/login", userInfo)
       .then((res) => {
         console.log(res.data);
         if (res.data) {

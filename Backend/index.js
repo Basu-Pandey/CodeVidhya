@@ -9,7 +9,6 @@ import userRoute from "./Route/user.route.js"
 app.use(cors())
 
 
-
 app.use(express.json());
 
 dotenv.config();
