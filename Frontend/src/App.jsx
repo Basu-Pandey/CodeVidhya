@@ -17,9 +17,9 @@ const App = () => {
           <Route path="/" element={<Home></Home>}></Route>
           <Route
             path="/course"
-            element={authUser ? <Courses></Courses> : <Navigate to="/https://code-vidhya-p3uu.vercel.app/signup" />}
+            element={authUser ? <Courses></Courses> : <Navigate to="/signup" />}
           ></Route>
-          <Route path="/https://code-vidhya-p3uu.vercel.app/signup" element={<Signup></Signup>}></Route>
+          <Route path="/Signup" element={<Signup></Signup>}></Route>
         </Routes>
         <Toaster />
       </div>
